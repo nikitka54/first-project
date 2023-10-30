@@ -195,3 +195,5 @@ class Wallet:
     def method_94(self): return 94
 
     def method_95(self): return 95
+
+    def method_96(self): return 96
