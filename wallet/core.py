@@ -647,3 +647,5 @@ class Wallet:
     def method_320(self): return 320
 
     def method_321(self): return 321
+
+    def method_322(self): return 322
