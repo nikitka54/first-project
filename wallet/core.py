@@ -809,3 +809,5 @@ class Wallet:
     def method_401(self): return 401
 
     def method_402(self): return 402
+
+    def method_403(self): return 403
